@@ -34,7 +34,4 @@ def square_root(num)
   num3 = num**2
   puts num3
   return num3
-  
-  
-   puts Math.sqrt(va81)
 end
