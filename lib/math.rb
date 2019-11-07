@@ -31,7 +31,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num3 = num**
+  num3 = num**2
   puts num3
   return num3
 end
