@@ -35,10 +35,3 @@ def square_root(num)
   puts num3
   return num3
 end
-
-addition(5,4)
-subtraction(10,5)
-division(50,2)
-multiplication(4,30)
-modulo(34,5)
-square_root(9)
