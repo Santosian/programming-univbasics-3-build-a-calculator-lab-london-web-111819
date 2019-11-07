@@ -31,7 +31,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num3 = num**2
-  puts num3
-  return num3
+  puts Math.sqrt(num)
+  return Math.sqrt(num)
 end
